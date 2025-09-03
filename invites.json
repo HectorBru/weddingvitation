@@ -1,0 +1,14 @@
+[
+  {
+    "email": "juan@example.com",
+    "password": "TempPass123!",
+    "guests": [{"name": "Juan"}, {"name": "Maria"}],
+    "city": "Valencia"
+  },
+  {
+    "email": "ana@example.com",
+    "password": "TempPass123!",
+    "guests": [{"name": "Ana"}],
+    "city": "Merida"
+  }
+]
